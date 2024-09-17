@@ -125,6 +125,8 @@ return {
       })
     end,
   },
+  -- {{{ Copilot
+  "github/copilot.vim",
  -- }}}
 }
 
