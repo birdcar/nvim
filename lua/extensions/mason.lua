@@ -47,7 +47,7 @@ mason_lspconfig.setup({
     "stimulus_ls",                     -- LSP for Stimulus.js
     "taplo",                           -- LSP for TOML files
     "terraformls",                     -- LSP for Terraform
-    "tsserver",                        -- LSP for Typescript and Javascript
+    "ts_ls",                        -- LSP for Typescript and Javascript
     "volar",                           -- LSP for Vue
     "yamlls",                          -- LSP for YAML
   },
